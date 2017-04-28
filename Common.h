@@ -4,7 +4,7 @@
 Common.h
  Common functions used in projects
 
-Author     : Arthur A Garcia
+Author     : Blain Bazrton
 Create Date: 4/27/2017
 change log :
 
