@@ -1,5 +1,5 @@
 # Motion-_Sensor_sr04_esp8266_sd
-*** Device Only to Azure Only **
-This is an Arduino Motion Sensor for measuring distance and sending variables to Microsoft Azure and via stream analytics to SQL Azure. This is only device part. Thr device is running "C" sending info to Microsoft Cloud. There's a lot that goes inbto building the device, not just the software. 
+*** Device to Azure Only **
+This is an Arduino Motion Sensor for measuring distance and sending variables to Microsoft Azure via Stream Analytics to an output data source. This is only device part. This device is running "C" flashed firmware sending info to the Microsoft Cloud. There's a lot that goes into building the device, prior to loading the sioftware.  
 
 ![alt text](https://github.com/blainbar/Motion-_Sensor_sr04_esp8266_sd/blob/master/images/motiondevice.jpeg)
