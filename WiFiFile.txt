@@ -1,0 +1,8 @@
+SSID:NETGEAR37|
+PASSWORD:sweetow!567|
+DEVICEID:esp8266v1|
+URL:/devices/esp8266v1/messages/events?api-version=2016-02-03|
+HOSTNAME:ArtTempIOT.azure-devices.net|
+SAS:SharedAccessSignature sr=ArtTempIOT.azure-devices.net&sig=vmUF6p3IANfHmNWrvk4Zf%2BlpngD365hUX9f%2FB2zNaUM%3D&se=1515799811&skn=iothubowner|
+DELAY:60000|
+
