@@ -7,7 +7,7 @@ Device: NODE MCU .9 esp 8266
 	  : Micro SD card reader
 	  : DIY Mall .96 inch display
 
-Author     : Arthur A Garcia
+Author     : Blain Barton
 Create Date: 4/27/2017
 change log :
 
